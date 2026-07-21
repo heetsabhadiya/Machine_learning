@@ -48,12 +48,3 @@ The following models were compared during experiments:
 4. **Support Vector Machine (SVM)**
 
 Hyperparameters were tuned using `RandomizedSearchCV` and `GridSearchCV`.
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/hetsabhadiya/Machine_learning.git](https://github.com/hetsabhadiya/Machine_learning.git)
-cd Machine_learning
